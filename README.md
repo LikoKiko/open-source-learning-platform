@@ -24,7 +24,7 @@ A collaborative platform for sharing educational content and coding exercises.
 3. Run the development server: `npm start`
 
 ## Contributing
-Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests.
+We welcome contributions from the community. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide to get started.
 
 ## License
 This project is licensed under the MIT License.
